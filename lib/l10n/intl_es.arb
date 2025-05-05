@@ -1,0 +1,8 @@
+{
+  "@@locale": "es",
+  "title": "Aplicación de Bingo",
+  "newSession": "Nueva sesión",
+  "newCard": "Nuevo cartón",
+  "newRound": "Nueva ronda",
+  "newPattern": "Nuevo patrón"
+}
